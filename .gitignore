@@ -1,0 +1,20 @@
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+.Renviron.site
+.Rproj.user/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# renv keeps the reproducible state in .Rprofile, renv.lock, and renv/
+# bootstrap files. The project library itself is machine-local.
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
