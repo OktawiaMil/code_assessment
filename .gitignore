@@ -8,6 +8,10 @@
 .idea/
 .DS_Store
 Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+README_files/
 
 # renv keeps the reproducible state in .Rprofile, renv.lock, and renv/
 # bootstrap files. The project library itself is machine-local.
